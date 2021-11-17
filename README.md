@@ -28,11 +28,7 @@ A API consumida na aplicação é a [RAWG Video Games Database API](https://api.
 
 
 ![add_Igames](https://user-images.githubusercontent.com/55961939/142140089-5ff9f260-afca-4d7f-b48a-9db3db836f44.png)
- 
- 
 ![remove_Igames](https://user-images.githubusercontent.com/55961939/142139993-d9a89b9f-db57-46a7-afb6-827822af764d.png)
-
-
 ![myplaylist_Igames](https://user-images.githubusercontent.com/55961939/142139813-5a877af8-5154-427a-b0b1-3082a083609e.png)
 
 
