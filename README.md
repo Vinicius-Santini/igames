@@ -11,10 +11,16 @@ A API consumida na aplicação é a [RAWG Video Games Database API](https://api.
 
 ## O que a apliacação faz?
 
-- Exibe jogos recomendados
-- Exibe os jogos com maior nota
+- Exibe jogos recomendados e os jogos com maior nota
+![home_Igames](https://user-images.githubusercontent.com/55961939/142139294-24fc8ed9-6f7a-429c-889d-7208c05850b7.png)
+
 - Possui tela com detalhes do jogo selecionado
+![home_Igames](https://user-images.githubusercontent.com/55961939/142139620-d4e96686-9746-4126-af17-28ba9b82eb4d.png)
+
 - Possibilidade de adicionar e remover jogos à sua playlist
+![myplaylist_Igames](https://user-images.githubusercontent.com/55961939/142139813-5a877af8-5154-427a-b0b1-3082a083609e.png)
+![remove_Igames](https://user-images.githubusercontent.com/55961939/142139993-d9a89b9f-db57-46a7-afb6-827822af764d.png)
+![add_Igames](https://user-images.githubusercontent.com/55961939/142140089-5ff9f260-afca-4d7f-b48a-9db3db836f44.png)
 
 ## Arquitetura
 O projeto possui três diretórios de maior importância. 
