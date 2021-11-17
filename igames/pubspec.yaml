@@ -1,0 +1,35 @@
+name: igames
+description: A new Flutter project.
+publish_to: "none"
+version: 2.5.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  design_system:
+    path: ../design_system
+
+  cupertino_icons: ^1.0.2
+  get_it: ^7.2.0
+  rxdart: ^0.27.2
+  http: ^0.13.3
+  shimmer: ^2.0.0
+  google_fonts: ^2.1.0
+  fancy_shimmer_image: ^2.0.0+1
+  flutter_dotenv: ^5.0.2
+  lint: ^1.7.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mocktailx: ^0.0.2
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env
