@@ -5,7 +5,7 @@ import 'package:igames/core/data/game.dart';
 import 'package:igames/core/shared/blocs/game_bloc.dart';
 import 'package:igames/features/home/widgets/section_error.dart';
 import 'package:igames/features/playlist/constants/playlist_constants.dart';
-import 'package:igames/core/shared/widgets/small_game_card.dart';
+import 'package:igames/features/shared/widgets/small_game_card.dart';
 
 final _getIt = GetIt.instance;
 
