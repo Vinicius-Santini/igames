@@ -21,6 +21,7 @@ O projeto possui três diretórios de maior importância.
 - design_system
 - core
 - features
+
 Essa divisão foi feita visando seguir conceitos da Clean architeture, por isso cada diretórios tem funções segregadas.
 
 O projeto utiliza o padrão BLoC, escolhi ele pois ao pesquisar sobre arquitetura em Flutter vi que é um padrão amplamente usado para o gerenciamento de estado, e me foi recomendado por desenvolvedores mais experientes no Flutter.
