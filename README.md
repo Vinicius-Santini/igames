@@ -21,7 +21,7 @@ A API consumida na aplicação é a [RAWG Video Games Database API](https://api.
 - Possui tela com detalhes do jogo selecionado
 
 
-![home_Igames](https://user-images.githubusercontent.com/55961939/142139620-d4e96686-9746-4126-af17-28ba9b82eb4d.png)
+![game_Igames](https://user-images.githubusercontent.com/55961939/142140605-3f3da24e-b41a-40e4-9967-ff08ef2c5208.png)
 
 
 - Possibilidade de adicionar e remover jogos à sua playlist
