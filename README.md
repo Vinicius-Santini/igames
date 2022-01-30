@@ -59,5 +59,5 @@ A pasta de Design System possui conteúdo de layout que é utilizado no app todo
 
 ## Observações:
 
-- A tela de game_page está lançando um erro no console, tentei resolvê-lo com algumas sugestões de alteração que encontrei ao pesquisar, porém não consegui eliminá-lo e já estava no limite para entregar o teste, esta seria a primeira alteração se houvesse mais tempo
-- Criei alguns testes, sendo eles para home page, repositório, e alguns para o game_bloc, o game_bloc não tem testes para o adicionar e o remover da playlist, este provavelmente seria um dos meus focos se houvesse mais tempo para desenvolver
+- A tela de game_page está lançando um erro no console
+- Criei alguns testes, sendo eles para home page, repositório, e alguns para o game_bloc, o game_bloc ainda não existem testes para o adicionar e remover da playlist
