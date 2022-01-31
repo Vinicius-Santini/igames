@@ -6,6 +6,8 @@ Realizei o projeto com a finalidade de me aprofundar mais no Flutter em questõe
 - Gerenciamento de estado
 - Arquitetura
 
+Tempo de desenvolvimento: 3 dias
+
 ## API
 A API consumida na aplicação é a [RAWG Video Games Database API](https://api.rawg.io/docs/).
 
